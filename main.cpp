@@ -62,7 +62,7 @@ int main() {
     //remind user what to input
     else
     {
-        cout << "Please input integers";
+        cout << "Integers only!";
     }
     return 0;
 }
